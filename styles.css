@@ -1,0 +1,78 @@
+  
+  h1{
+    margin:20px 30px 40px 150px;
+    padding:10px;
+    border:4px solid blue;
+    background-color:violet;
+    color:red;
+    display: inline-flex;
+  }
+  
+  span{
+    margin-top:30px;
+    padding: 15px;
+    border: 6px solid aquamarine;
+    border-top: 15px solid aquamarine;
+    background-color: chocolate;
+    display: inline-block;
+    width: 20px;
+    height: 2px;
+  }
+
+  .title-green {
+    color: green;
+    margin: 0 auto;
+  }
+  
+  
+  .title-blue {
+    color: blue;
+  }
+  #title-purple {
+    color: purple;
+  }
+  
+  .title-red {
+    color: red;
+  }
+  .uppercase {
+    text-transform: uppercase;
+  }
+  
+  .lowercase {
+    text-transform: lowercase;
+  }
+  
+  .capitalize {
+    text-transform: capitalize;
+  }
+  .box {
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    display: inline-block;
+  }
+  
+  .red-background {
+    background-color: red;
+  }
+  .blue-background {
+    background-color: blue;
+  }
+  
+  .green-background {
+    background-color: green;
+  }
+  .has-margin {
+    background-color: darkolivegreen;
+    margin:0px 50px;
+  }
+  .box-centered {
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    margin: 0 auto; /* Propiedad margin con los valores 0 vertical y auto horizontal */
+    padding: 50px;
+  }
